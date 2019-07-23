@@ -1,0 +1,83 @@
+﻿Perguntas sobre LGPD
+*Obrigatório
+A empresa realizada o tratamento de dados pessoais para fins acadêmicos, artísticos ou jornalísticos? *
+ Sim
+ Não
+A empresa se relacionada diretamente com o consumidor final (B2C)? *
+ Sim
+ Não
+A empresa comercializa seus produtos ou serviços pela internet, aplicativos próprios ou de terceiros? *
+ Sim
+ Não
+Além dos dados pessoais obtidos eletronicamente, a empresa também coleta dados pessoais no papel (currículos, cadastros, etc.)? *
+ Sim
+ Não
+A empresa solicita o consentimento do titular para tratar seus dados pessoais? *
+ Sim
+ Não
+O tratamento dos dados é realizado para a finalidade que foi previamente comunicada ao titular? *
+ Sim
+ Não
+Na hipótese de solicitação do titular dos dados pessoais, a empresa está preparada para conceder o acesso às atividades de tratamento realizadas? *
+ Sim
+ Não
+Você tem conhecimento de que os dados pessoais foram utilizados para fins discriminatórios (contratação, desligamento, promoção, condições comerciais) ? *
+ Sim
+ Não
+Informe quais atividades são realizadas internamente e quais são terceirizadas: *
+Internamente	Terceirizada
+Departamento Pessoal		
+Recursos Humanos		
+Financeiro		
+Marketing		
+Comercial		
+Administrativo		
+Jurídico		
+Compliance		
+Recepção		
+Segurança e Monitoramento		
+Existe controle ou monitoramento sobre as atividades de tratamento realizada pelas empresas terceirizadas? *
+ Sim
+ Não
+Você tem conhecimento da transmissão de dados pessoais para outras empresas que não aquelas que realização a terceirização das atividades da empresa? *
+ Sim
+ Não
+A empresa realizada o tratamento de dados sensíveis, isto é, aqueles que podem causar discriminação ou estigmatização ao seu titular? *
+ Sim
+ Não
+Existe o tratamento de dados envolvendo crianças e adolescentes em atividades internas ou externas relacionadas ao tratamento de dados? *
+ Sim
+ Não
+A empresa está preparada para atender os diversos pedidos dos titulares quanto aos dados pessoais (eliminação, transferência, anonimização, etc.)? *
+ Sim
+ Não
+A tecnologia disponível na empresa possibilita a anonimização de dados pessoais? *
+ Sim
+ Não
+A privacidade dos dados pessoais é considerada desde o início da concepção dos novos serviços e produtos da empresa? *
+ Sim
+ Não
+A empresa possui práticas de governança relacionadas à proteção de dados? *
+ Sim
+ Não
+Você lembra de ter participado de algum treinamento ou recebido alguma cartilha sobre proteção de dados da empresa? *
+ Sim
+ Não
+A empresa está preparada para incidente de segurança relacionado aos dados pessoais? *
+ Sim
+ Não
+Existe um responsável na empresa pela proteção dos dados pessoais? *
+ Sim
+ Não
+Os contratos e termos de uso de equipamentos ou sistemas da empresa prevem o consentimento do usuário para o tratamento de seus dados pessoais? *
+ Sim
+ Não
+Há alguma cláusula de prevenção de judicialização de conflitos nos contratos, termos de uso ou termos de consentimento? *
+ Sim
+ Não
+Você tem conhecimento de que a empresa já tenha sido vítima de vazamento de dados pessoais? *
+ Sim
+ Não
+Na hipótese de uma autoridade solicitar informações sobre as práticas de tratamento de dados pessoais, a empresa está preparada para responder? *
+ Sim
+ Não

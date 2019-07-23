@@ -1,0 +1,52 @@
+﻿Referencial Teórico
+
+Normas regulatórias:
+
+CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988. Disponível em http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm (acesso em 05 de julho de 2019).
+
+LEI Nº 8.078, DE 11 DE SETEMBRO DE 1990. Disponível em http://www.planalto.gov.br/ccivil_03/leis/l8078.htm (acesso em 06 de julho de 2019).
+
+LEI Nº 12.737, DE 30 DE NOVEMBRO DE 2012. Disponível em http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm (acesso em 06 de julho de 2019).
+
+LEI Nº 12.965, DE 23 DE ABRIL DE 2014. Disponível em http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2014/Lei/L12965.htm  (acesso em 01 de julho de 2019).
+
+LEI Nº 13.709, DE 14 DE AGOSTO DE 2018. Disponível em http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm (acesso em 01 de julho de 2019).
+
+LEI Nº 13.853, DE 8 DE JULHO DE 2019. Disponível em 	http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13853.htm (acesso em 09 de julho de 2019).
+
+General Data Protection Regulation, 14 April 2016. Disponível em 
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679 (acessado em 04 de julho de 2019).
+
+
+Imprensa:
+
+RENNAN A. JULIO. “Dados são o novo petróleo”, diz CEO da Mastercard. Disponível em https://epocanegocios.globo.com/Empresa/noticia/2019/07/dados-sao-o-novo-petroleo-diz-ceo-da-mastercard.html. (Acessado em 07 de julho de 2019).
+
+Dino. O que as empresas precisam para se adequar à LGPD e GDPR? Disponível em https://exame.abril.com.br/negocios/dino/o-que-as-empresas-precisam-para-se-adequar-a-lgpd-e-gdpr/ (Acessado em 07 de julho de 2019).
+
+British Airways pode ter que pagar US $ 230 Mi em multa devido a GDPR. Disponível em: https://minutodaseguranca.blog.br/british-airways-pode-ter-que-pagar-us-230-mi-em-multa-devido-a-gdpr/ (Acessado em 07 de julho de 2019).
+
+Facebook fecha acordo para pagar multa de US$ 5 bilhões por violação de privacidade nos EUA. Disponível em: https://gauchazh.clicrbs.com.br/tecnologia/noticia/2019/07/facebook-fecha-acordo-para-pagar-multa-de-us-5-bilhoes-por-violacao-de-privacidade-nos-eua-cjy0o9c6d01d501msqh1spbco.html (Acessado em 07 de julho de 2019).
+
+
+Especialistas:
+
+Gabriel Camargo. LGPD: 10 pontos para entender a nova lei de proteção de dados no Brasil. Disponível em https://computerworld.com.br/2018/09/19/lgpd-10-pontos-para-entender-a-nova-lei-de-protecao-de-dads-no-brasil/ (Acessado em 01 de julho de 2019).
+
+PROOF. Como funciona a LGPD. Disponível em https://www.proof.com.br/blog/como-funciona-a-lgpd/ . (Acessado em 01 de julho de 2019).
+
+LBCA. O QUE A EMPRESA DEVE FAZER? Disponível em https://www.lgpdbrasil.com.br/o-que-a-empresa-deve-fazer/ (Acessado em 08 de julho de 2019).
+
+Marcelo Alves Pereira. Data Protection Officer (DPO): papeis e responsabilidades. Disponível em https://alvespereiraadv.jusbrasil.com.br/artigos/727340627/data-protection-officer-dpo-papeis-e-responsabilidade. (Acessado em 08 de julho de 2019).
+
+Delphos. Cuidados dos DBAs ao Tratar e Compartilhar Dados de Testes. Disponível em  https://www.delphos.com.br/cuidados-de-dbas-ao-compartilhar-dados-testes/ (Acessado em 10 de julho de 2019)
+
+Paulo Lilla. LEI GERAL DE PROTEÇÃO DE DADOS – LGPD - ASPECTOS PRÁTICOS DE COMPLIANCE Disponível em http://www.anspnet.org.br/wp-content/uploads/2018/11/paulo_lilla.pdf (Acessado em 10 de julho de 2019).
+
+Portal privacidade. RAZÕES DOS VETOS ao Projeto de Lei de Conversão no 7, de 2019 (MP nº 869/2018), que altera a LGPD. Disponível em:  http://www.portaldaprivacidade.com.br/2019/07/12/razoes-dos-vetos-ao-projeto-de-lei-de-conversao-no-7-de-2019-mp-no-869-2018-que-altera-lgpd/ (acessado em 12 de julho de 2019).
+
+Machado Meyer. LEI 13.709/18 LEI DE PROTEÇÃO DE DADOS PESSOAIS. Disponível em:  https://www.machadomeyer.com.br/images/publicacoes/PDFs/Lei_Protecao_de_Dados_ebook_18.pdf (acessado em 12 de julho de 2019)
+
+MATTOS FILHO, Guia para a Lei Geral de Proteção de Dados. Disponível em: https://www.legiscompliance.com.br/images/pdf/cartilha_lgpd_mattosfilho.pdf (acessado em 11 de julho de 2019)
+
+Senior. LGPD: O que é, como vai funcionar e o que muda para sua empresa. Disponível em: https://www.senior.com.br/blog/lgpd-o-que-e-como-vai-funcionar-e-o-que-muda-para-sua-empresa/ (acessado em 11 de julho de 2019)

@@ -1,0 +1,75 @@
+Sobre a LGPD
+	+Surgimento;
+	+Contexto Histórico
+	• Art. 5º, X, CF de 1988. (Direito a privacidade);
+	• Art. 42 e 43 da Lei 8.078, de 1990. (CDC);
+	• Lei 12.965, de 2014 (Marco Civil da internet);
+	• Lei 12.737, de 2012 (Lei Carolina Dieckmann);
+	• GDPR (General Data Protection Regulation);
+	• Lei 13.709, de 2018. (LGPD);
+	• Lei 13.853, de 2019. (Alterações da LGPD).
+	+Princípios
+	+Direitos do Titular
+	• Esquecimento;
+	• Alterar / Corrigir;
+	• Explicação;
+	• Portabilidade
+	+Responsabilidades
+	+Atores
+	• Titular 
+	• Controlador 
+	• Operador 
+	• Encarregado 
+	• Agentes de Tratamento 
+	• Autoridade Nacional
+	+Sanções
+	
+LGPD na XPTO
+	
+	+Quais dados possuímos?
+	• base de dados de alunos;
+	• base de dados de funcionários;
+	
+	+Quais dados precisamos?
+	
+	+Por que precisamos?
+	• Bases legais;
+	
+	+O que a empresa deve fazer?
+	• Identificação dos dados;
+	• Auditoria sobre o tratamento;
+	• Gestão do Consentimento e Anonimização;
+	• Gestão dos Pedidos do Titular;
+	• Segurança dos Dados;
+	• Governança do tratamento;
+	• Plano de comunicação de incidente;
+	• Instituir o encarregado (DPO);
+	 
+	 
+	 
+
+Elementos Tecnicos
+  ->Segurança dos Sistemas e da Informação
+  ->Criptografia e Proteção dos Dados
+  ->Comprovação da Origem e do Direito de Uso dos Dados
+  ->Auditoria e Rastreio
+  
+  --> Seguraça da Informação
+      *Segregação de permissões e acesso (verificar os direitos dos usuarios aos sistemas, pastas compartilhadas e banco de dados)
+	  *Monitoramento de acessos aos sistemas (Ativar alarmes para acessos a sistemas não autorizados e monitoração de serviços importantes)
+	  *Testes de penetração e vulnerabilidade (utilizar programas de scanner de vulnerabilidade nos sistemas da empresa ou contratar empresas especializadas para fazer pentests nos sistemas da empresa)
+	  
+  -->Criptografia e Proteção dos Dados
+      *Criptografar os dados pessoais utilizando hash;
+	  *
+  -->Auditoria e Rastreio
+      *Auditar tudo que esta sendo feito com os dados, como acesso a banco de dados por exemplo;
+	  *
+  -->Comprovação da Origem e do Direito de Uso dos Dados
+      *Comprove onde conseguiu os dados
+	  *Solicitar autorização para todos os dados que a empresa solicita a clientes e funcionários
+
+
+Autoridade Nacional de Proteção de Dados (ANPD);
+Titular
+Encarregado:
